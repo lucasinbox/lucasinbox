@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script>
+  window.alert('ola ')
+  window.prompt('fale seu nome')
+</script>
